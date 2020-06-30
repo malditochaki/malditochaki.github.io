@@ -1,0 +1,34 @@
+.h1-serif{
+    font-family: 'Old Standard TT', serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.h2-serif{
+    font-family: 'Old Standard TT', serif;
+    font-size: 20px;
+}
+
+.p-serif{
+    font-family: 'Old Standard TT', serif;
+    font-size: 20px;
+ }
+ .a-serif
+
+ .img-text-serif{
+    font-family: 'Old Standard TT', serif;
+    font-size: 20px;    
+ }
+.cita-serif{
+    font-family: 'Old Standard TT', serif;
+    font-size: 18px;
+    padding: 30px;
+}
+
+
+.read-time{
+    font-family: 'Old Standard TT', serif;
+    color: blue;
+    font-style: unset;
+    font-size: 15px;
+}
